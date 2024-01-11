@@ -1,4 +1,4 @@
-# BasicSocialMediaAPI
+# SocialMediaAPI with Spring Boot
 BASIC SOCIAL MEDIAL API TO CREATE MULTIPLE USER, CREATE A POST, COMMENT ON POST, LIKE POST.
 
 In this project i will list the endpoint to hit when you run program
