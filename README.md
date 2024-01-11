@@ -1,10 +1,13 @@
 # BasicSocialMediaAPI
 BASIC SOCIAL MEDIAL API TO CREATE MULTIPLE USER, CREATE A POST, COMMENT ON POST, LIKE POST.
-Image upload is done with amazon aws, if ImageFile is NULL, imageFileUrl = ""; 
 
 In this project i will list the endpoint to hit when you run program
 
-# CREATE USER - UserName,FirstName,LastName,ImageFile(Image File up to 10MB). create user 
+# CREATE USER
+UserName,FirstName,LastName,ImageFile(Image File up to 10MB).
+Image upload is done with amazon aws, if ImageFile is NULL, imageFileUrl = ""; 
+
+
 POST - localhost:2001/User/create 
 `Form-data`
 KEY: 
